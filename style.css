@@ -1,0 +1,32 @@
+body {
+    color: orangered;
+}
+
+img {
+    max-width: 200px;
+    min-width: 200px;
+}
+
+p {
+    font-weight: bold;
+}
+
+#main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: orangered;
+    border-style: solid;
+    background-color: white;
+    color: orangered;
+}
+
+button:hover {
+    border-color: rgb(255, 0, 0);
+    color: red;
