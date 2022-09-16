@@ -30,3 +30,8 @@ button {
 button:hover {
     border-color: rgb(255, 0, 0);
     color: red;
+}
+
+#error {
+    color: red;
+}
